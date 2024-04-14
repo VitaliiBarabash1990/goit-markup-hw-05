@@ -559,8 +559,8 @@ img {
   background-color: #404bbf;
   border: none;
 } */
-.modal-button:hover + .modal-icon,
-.modal-button:focus + .modal-icon {
+.modal-button:hover > .modal-icon,
+.modal-button:focus > .modal-icon {
   fill: #ffffff;
   /* background-color: #404bbf;
   border: none; */
